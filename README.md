@@ -74,4 +74,20 @@ The main objectives were:
 - **Standard Class** shipping dominates (6,120 orders, $168K profit)
 - Correlation between Sales and Profit: **r = 0.48** (moderate positive)
 
+![Customer Clusters](photos/Dashboard1.png)
+
+![Customer Clusters](photos/Dashboard2.png)
+
+
+
+
 ## 📁 Results
+![Customer Clusters](photos/01_sales_by_category.png)
+![Customer Clusters](photos/02_monthly_sales_trend.png)
+![Customer Clusters](photos/03_sales_by_region.png)
+![Customer Clusters](photos/04_top10_states_sales.png)
+![Customer Clusters](photos/05_sales_profit_by_shipmode.png)
+![Customer Clusters](photos/06_sales_profit_scatter.png)
+![Customer Clusters](photos/07_elbow_method.png)
+![Customer Clusters](photos/08_customer_clusters.png)
+![Customer Clusters](photos/09_clusters_comparison.png)
